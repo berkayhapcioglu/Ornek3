@@ -1,15 +1,14 @@
 .navbar{
-    width: 50%;
+    width: 90%;
     margin: auto;
-    padding: 10px 10px;
+    margin-right: 20%;
+    padding: 10px 0px;
     display: flex;
     align-items:flex-end;
     justify-content:space-between;
-    flex-direction:column;
+    flex-direction:row;
     overflow: hidden;
-    height:auto ;
-    width: auto;    
-
+    
 }
 .logo{
     width: 44px;
@@ -17,7 +16,7 @@
     display: block;
     position:fixed;
     left: 21;
-    top:45;
+    top:55;
     
 }
 .navbar ul li {
