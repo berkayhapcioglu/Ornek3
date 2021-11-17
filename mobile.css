@@ -40,3 +40,10 @@
 .content p {
     font-size: medium;
 }
+.navbar ul{
+    margin: 5px;
+    padding: 5px;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
